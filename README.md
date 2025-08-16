@@ -41,8 +41,8 @@ We experiment with two deep learning architectures:
 - **Experiments**:
   1. **Feature Extractor Frozen** (ResNet backbone not trained)  
      - Achieved **~82% accuracy** on the validation set.  
-     - ![ResNet Frozen](https://github.com/user-attachments/assets/94463c8d-9922-4b89-b598-1d48da44cdcb)
+     ![ResNet Frozen](https://github.com/user-attachments/assets/94463c8d-9922-4b89-b598-1d48da44cdcb)
 
   2. **Last Layer Trained** (Fine-tuning the last layer of ResNet)  
      - Achieved **~90% accuracy** on the validation set.  
-     - ![ResNet Fine-Tuned](https://github.com/user-attachments/assets/83467931-eaf6-41ad-8338-2102e30ebec7)
+     ![ResNet Fine-Tuned](https://github.com/user-attachments/assets/83467931-eaf6-41ad-8338-2102e30ebec7)
